@@ -2,7 +2,10 @@
 
 ## 🤳 About Me
 
-I am **18yo**, currently a **student at the Federal Institute São Paulo, Brazil**, pursuing a degree in **Information Systems**. I'm enthusiastic about the world of software development, and my journey so far has led me to explore various aspects of *web development*.
+- 🙋‍♂️ I am **18yo**
+- 📕 Student at the **Federal Institute São Paulo, Brazil**
+- 💻 Pursuing a degree in **Information Systems**
+- 🔍️ I'm enthusiastic about the world of software development, and my journey so far has led me to explore various aspects of ***web development***.
 
 ## 👨‍💻 Programming Languages and Technologies
 
